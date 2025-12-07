@@ -16,7 +16,7 @@ I am a Software Engineering graduate who loves building practical applications a
 - 💻 &nbsp; Working with: **HTML, CSS, C#, C++, Java**
 - 🔧 &nbsp; Tools & Tech: **.NET, Firebase, SQL Server, Figma**
 - 🌱 &nbsp; Currently improving my skills in web development and clean code practices
-- 👨🏻‍💻 &nbsp; All of my projects are available on my [GitHub repositories]
+- 👨🏻‍💻 &nbsp; All of my projects are available on my https://github.com/YamenBrieghish?tab=repositories
 - 📫 &nbsp; How to reach me: **yamenbrieghish@gmail.com**
 
 ---
