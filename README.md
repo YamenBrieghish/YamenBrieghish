@@ -30,7 +30,7 @@ Features include search, favorites, maps, authentication and personalized user d
 #### 🎓 EduLive – UI/UX Design
 Interactive e-learning platform prototype to improve accessibility and user experience.  
 Designed instructor profiles and achievement pages using reusable components.  
-**Tech Used:** Figma, Responsive Design  
+**Tech Used:** Figma
 
 #### 🏫 Student Management System
 System for managing students, courses and lecturers with full database integration.  
