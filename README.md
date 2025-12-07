@@ -1,8 +1,7 @@
 ## Hey 👋, I'm Yamen Brieghish
 
-<a href='https://www.linkedin.com/in/yamen-m-brieghish/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
-<br/>
+
 <br/>
 
 I am a Software Engineering graduate who loves building practical applications and improving user experience through clean design and efficient code. I enjoy working on both mobile and web-based projects and continuously expanding my technical skills.
