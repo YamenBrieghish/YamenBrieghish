@@ -4,7 +4,7 @@
 
 <br/>
 
-I am a Software Engineering graduate who loves building practical applications and improving user experience through clean design and efficient code. I enjoy working on both mobile and web-based projects and continuously expanding my technical skills.
+I am a Software Engineer who loves building practical applications and improving user experience through clean design and efficient code. I enjoy working on both mobile and web-based projects and continuously expanding my technical skills.
 
 <br/>
 
